@@ -138,7 +138,7 @@ JOIN Categoría c ON p.ID_Categoría = c.ID_Categoría;
 - **Transformaciones:** Datos limpios, normalizados y enriquecidos listos para análisis.  
 
 ### Captura del proceso:
-![Ejecución del flujo de datos sin errores](https://i.ibb.co/6bRd6sy/flujo-datos.png)
+![Ejecución del flujo de datos sin errores](https://i.ibb.co/nkp9T44/Proceso-1.png)
 
 ---
 
